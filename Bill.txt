@@ -3,13 +3,12 @@ is principal founder of Microsoft Corporation.
 (founded in 1975)
 During his career at Microsoft, Gates held the positions of chairman,
 CEO and chief software architect,
+(Satya Nadella became Microsoft CEO in 2014
 while also being the largest individual shareholder until May 2014.
 
-Microsoft Windows was announced by Bill Gates on November 10, 1983.
-Microsoft introduced Windows as a graphical user interface for MS-DOS,
-which had been introduced a couple of years earlier.
-In the 1990s, the product line evolved from an operating environment into a fully complete,
-modern operating system over two lines of development, each with their own separate codebase.
+Windows is a series of operating systems developed by Microsoft.
+Each version of Windows includes a graphical user interface,
+with a desktop that allows users to view files and folders in windows.
 
 The Bill & Melinda Gates Foundation is the world's largest charitable foundation.
 The Gates Foundation gives away approximately $1 billion annually.
