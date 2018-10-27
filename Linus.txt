@@ -14,3 +14,13 @@ Founded in 2007, the Linux Foundation sponsors the work of Linux creator Linus T
 and is supported by leading technology companies and developers from around the world.
 The Linux Foundation promotes, protects and advances Linux by marshaling the resources of
 its members and the open source development community to ensure Linux remains free and technically advanced.
+
+> When I first looked at Git source code two things struck me as odd:
+> Pure C as opposed to C++. No idea why. Please don't talk about portability, it's BS.
+
+Linus:
+C++ is a horrible language. It's made more horrible by the fact that a lot
+of substandard programmers use it, to the point where it's much much
+easier to generate total and utter crap with it. Quite frankly, even if
+the choice of C were to do *nothing* but keep the C++ programmers out,
+that in itself would be a huge reason to use C.
