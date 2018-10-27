@@ -3,3 +3,9 @@ is a Finnish–Sweden software engineer who is the creator,
 and historically, the principal developer of the Linux kernel.
 He also created the distributed revision control system Git
 and the diving logging and planning software Subsurface.
+
+The Linux Foundation is the nonprofit consortium dedicated to fostering the growth of Linux.
+Founded in 2007, the Linux Foundation sponsors the work of Linux creator Linus Torvalds
+and is supported by leading technology companies and developers from around the world.
+The Linux Foundation promotes, protects and advances Linux by marshaling the resources of
+its members and the open source development community to ensure Linux remains free and technically advanced.
