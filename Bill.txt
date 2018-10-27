@@ -13,3 +13,6 @@ with a desktop that allows users to view files and folders in windows.
 The Bill & Melinda Gates Foundation is the world's largest charitable foundation.
 The Gates Foundation gives away approximately $1 billion annually.
 Its overarching philanthropic goals are to promote education and health for the world's underprivileged.
+
+With Windows 10, there are two release types: feature updates that add new functionality twice per year,
+and quality updates that provide security and reliability fixes at least once a month.
