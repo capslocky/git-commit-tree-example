@@ -12,3 +12,7 @@ with a desktop that allows users to view files and folders in windows.
 The Bill & Melinda Gates Foundation is the world's largest charitable foundation.
 The Gates Foundation gives away approximately $1 billion annually.
 Its overarching philanthropic goals are to promote education and health for the world's underprivileged.
+
+Visual Studio Code is a source code editor developed by Microsoft for
+Windows, Linux and macOS. It includes support for debugging, embedded Git control,
+syntax highlighting, intelligent code completion, snippets, and code refactoring.
