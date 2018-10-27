@@ -1,0 +1,3 @@
+Amazon Web Services (AWS) is a comprehensive, evolving cloud computing platform provided by Amazon.
+It provides a mix of infrastructure as a service (IaaS),
+platform as a service (PaaS) and packaged software as a service (SaaS) offerings.
