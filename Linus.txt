@@ -1,0 +1,5 @@
+Linus Torvalds
+is a Finnish–Sweden software engineer who is the creator,
+and historically, the principal developer of the Linux kernel.
+He also created the distributed revision control system Git
+and the diving logging and planning software Subsurface.
